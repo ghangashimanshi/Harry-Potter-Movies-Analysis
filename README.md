@@ -14,6 +14,15 @@ It provides insights such as:
 - Combined cleaned dataset: `outputs/combined_movies_clean.xlsx`
 - All CSVs are stored in the `data/` folder
 
+## Harry Potter Images
+Here are some iconic images from the Harry Potter movies:
+
+<img src="images/harry.jpg" width="300">
+<img src="images/ron.jpg" width="300">
+<img src="images/hermione.jpg" width="300">
+<img src="images/poster.jpg" width="300">
+
+
 ## How to Run
 1. Open `notebooks/analysis.ipynb` in VS Code or Jupyter Notebook.
 2. Make sure Python 3.x is installed with required libraries:
