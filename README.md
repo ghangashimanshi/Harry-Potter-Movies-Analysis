@@ -15,12 +15,7 @@ It provides insights such as:
 - All CSVs are stored in the `data/` folder
 
 ## Harry Potter Images
-Here are some iconic images from the Harry Potter movies:
-
-<img src="images/harry.jpg" width="300">
-<img src="images/ron.jpg" width="300">
-<img src="images/hermione.jpg" width="300">
-<img src="images/poster.jpg" width="300">
+Some iconic images from the Harry Potter movies:
 
 
 ## How to Run
@@ -29,4 +24,4 @@ Here are some iconic images from the Harry Potter movies:
    ```bash
    pip install pandas matplotlib seaborn openpyxl
 
-Harry Potter movies data analysis project (EDA, sentiment, character networks, dashboards.
+Harry Potter movies data analysis project (EDA, sentiment, character networks, dashboards).
